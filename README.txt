@@ -1,0 +1,3 @@
+
+Bonjour,
+Merci pour cette formation, GIT va surement me faciliter la vie...
