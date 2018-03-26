@@ -1,2 +1,4 @@
 
 Voici mon premier fichier
+J'ajoute une seconde ligne, Vim c'est sympa mais il faut connaître les commandes et comment y accéder !
+Je crois que j'ai compris avec la touche "insert" et la touche "echap" ouf ^^
